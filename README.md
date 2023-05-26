@@ -28,7 +28,7 @@
 
   <div style="display: inline_block"> <br/>
     <img alt="Coursera" src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white">
-    <img alt="Udemy" src="	https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white">
+    <img alt="Udemy" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white">
 </div>
 
 
@@ -36,15 +36,15 @@
 
   <div style="display: inline_block"> <br/>
     <img alt="Intellij idea" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
-    <img alt="Visual studio code" src="		https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+    <img alt="Visual studio code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </div>
 
 
 ## Sites que utilizo para gerenciar projetos
 
   <div style="display: inline_block"> <br/>
-    <img alt="Trello" src="	https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
-       <img alt="Notion" src="		https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+    <img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
+       <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 </div>
 
 
@@ -56,4 +56,4 @@
     <img alt="Windows terminal" src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white">
 </div>
 <br/><br/>
-<img alt="VSCode" src="	https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg">
+<img alt="VSCode" src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg">
