@@ -7,8 +7,6 @@
 ](https://www.linkedin.com/in/caique-oliveira-153542250/)
 
 
-![Caique GitHub stats](https://github-readme-stats.vercel.app/api?username=CaiqueDEV1&show_icons=true&theme=transparent)
-
 ## Tecnologias que conheço e uso.
 
 <div style="display: inline_block"> <br/>
