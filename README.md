@@ -27,6 +27,6 @@ Estou aberto para colaborações em projetos desafiadores! Se você tem uma idei
 - https://www.linkedin.com/in/caique-oliveira-153542250/
 ### E-mail
 - caiqueoliver15@yahoo.com
-Vamos codar e inovar juntos! 🚀
-</div>
-<br/><br/>
+<br/>
+
+#### **Vamos codar e inovar juntos! 🚀**
