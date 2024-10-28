@@ -1,31 +1,29 @@
 
+# 👋 Olá, Seja Bem-vindo ao Meu Perfil!
+Sobre Mim
+Me chamo *Caique*, um programador apaixonado por tecnologia e inovação, atualmente com 20 anos. Estou cursando Tecnologia em Inteligência Artificial, e estou sempre buscando aprender coisas novas e explorar áreas emergentes no campo da analise, ciência de dados e IA. Criar soluções inovadoras e enfrentar desafios é algo que me motiva a continuar evoluindo.
 
- ## Olá! Eu sou o Caique de Oliveira 🤠
+# 💻 Tecnologias que Domino
+JavaScript
+Java
+Python
+MySQL
 
+# 🌱 Interesses
+Estou sempre aprimorando minhas habilidades em Inteligência Artificial, Exploração de Dados, e Ciência de Dados. Também gosto de desenvolver projetos criativos e buscar formas de aplicar conceitos de automação e machine learning para resolver problemas reais.
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-](https://www.linkedin.com/in/caique-oliveira-153542250/)
+# ✨ O Que Me Move
+Adoro inovar e explorar novas ferramentas e tecnologias para me manter atualizado. Meu objetivo é crescer como desenvolvedor, compartilhar conhecimento e contribuir com a comunidade de programadores ao redor do mundo.
 
+# 🚀 Projetos e Colaborações
+Estou aberto para colaborações em projetos desafiadores! Se você tem uma ideia interessante ou gostaria de trabalhar junto, não hesite em entrar em contato.
 
-## Tecnologias que conheço e uso.
+# 📫 Como Entrar em Contato:
 
-<div style="display: inline_block"> <br/>
-    <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-    <img alt="ReactJs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
- 
-</div>
-
-
-## Terminais que utilizo
-
-  <div style="display: inline_block"> <br/>
-    <img alt="GIT" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-    <img alt="Powershell" src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
-    <img alt="Windows terminal" src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white">
+## LinkedIn
+- https://www.linkedin.com/in/caique-oliveira-153542250/
+## E-mail
+- caiqueoliver15@yahoo.com
+Vamos codar e inovar juntos! 🚀
 </div>
 <br/><br/>
-<img alt="VSCode" src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg">
