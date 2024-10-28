@@ -1,7 +1,7 @@
 
 ### 👋 Olá, Seja Bem-vindo ao Meu Perfil!
 Sobre Mim
-Me chamo <h3>**Caique**<h3/>, um programador apaixonado por tecnologia e inovação, atualmente com 20 anos. Estou cursando Tecnologia em Inteligência Artificial, e estou sempre buscando aprender coisas novas e explorar áreas emergentes no campo da analise, ciência de dados e IA. Criar soluções inovadoras e enfrentar desafios é algo que me motiva a continuar evoluindo.
+Me chamo **Caique**, um programador apaixonado por tecnologia e inovação, atualmente com 20 anos. Estou cursando Tecnologia em Inteligência Artificial, e estou sempre buscando aprender coisas novas e explorar áreas emergentes no campo da analise, ciência de dados e IA. Criar soluções inovadoras e enfrentar desafios é algo que me motiva a continuar evoluindo.
 
 ### 💻 Tecnologias que Utilizo
 - JavaScript
