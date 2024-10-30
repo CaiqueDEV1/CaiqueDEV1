@@ -12,6 +12,8 @@ Me chamo **Caique**, um programador apaixonado por tecnologia e inovação, atua
 - Bootstrap
 - React
 - Big Data
+- Machine Learning
+- Inteligência artificial
 
 ### 🌱 Interesses
 Estou sempre aprimorando minhas habilidades em Inteligência Artificial, Exploração de Dados, e Ciência de Dados. Também gosto de desenvolver projetos criativos e buscar formas de aplicar conceitos de automação e machine learning para resolver problemas reais.
