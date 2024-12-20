@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caiquedev1&label=Profile%20views&color=0e75b6&style=flat" alt="caiquedev1" /> </p>
 
-- 🔭 Estou trabalhando com ciência de dados [Predict score](https://github.com/CaiqueDEV1/Project_Predict_Score)
+- 🔭 Estou buscando emprego em ciência/analise de dados [Predict score](https://github.com/CaiqueDEV1/Project_Predict_Score)
 
 - 🌱 Atualmente estou focando nos estudos em tudo que envolve a área de dados. **Python, SQL Server, Linguagem SQL, Java, Estrutura de dados**
 
