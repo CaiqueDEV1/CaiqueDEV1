@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou Caique Oliveira</h1>
-<h3 align="center">Sou entusiasta da Ciência de dados</h3>
+<h3 align="center">Sou entusiasta da Ciência de dados e Inteligência artificial</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caiquedev1&label=Profile%20views&color=0e75b6&style=flat" alt="caiquedev1" /> </p>
 
