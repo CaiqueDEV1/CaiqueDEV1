@@ -11,7 +11,7 @@
 
 - 📫 Como entrar em contato **caiqueoliver15@yahoo.com**
 
-- 📫 Saiba mais sobre minhas experiências [https://www.linkedin.com/in/caique-oliveira77/](www.linkedin.com/in/caique-oliveira77/)
+- 📫 Saiba mais sobre minhas experiências [www.linkedin.com/in/caique-oliveira77/](www.linkedin.com/in/caique-oliveira77/)
 
 
 <h3 align="left">Linguagens e ferramentas:</h3>
