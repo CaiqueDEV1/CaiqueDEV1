@@ -1,13 +1,13 @@
 <h1 align="center">Oi 👋, Eu sou Caique Oliveira</h1>
-<h3 align="center">Sou entusiasta da Ciência de dados e Inteligência artificial</h3>
+<h3 align="center">Sou entusiasta do desenvolvimento e Inteligência artificial</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caiquedev1&label=Profile%20views&color=0e75b6&style=flat" alt="caiquedev1" /> </p>
 
-- 🔭 Estou buscando emprego em ciência/analise de dados [Predict score](https://github.com/CaiqueDEV1/Project_Predict_Score)
+- 🔭 Estou buscando emprego em desenvolvimento ou dados [Predict score](https://github.com/CaiqueDEV1/Project_Predict_Score)
 
 - 🌱 Atualmente estou focando nos estudos em tudo que envolve a área de dados. **Python, SQL Server, Linguagem SQL, Java, Estrutura de dados**
 
-- 💬 Pergunte algo sobre mim **Atualmente estou empenhado em conseguir uma vaga de estágio para ciências ou analises de dados. estou cursando Inteligência artificial.**
+- 💬 Pergunte algo sobre mim **Atualmente estou empenhado em conseguir uma vaga de estágio para desenvolvimento ou dados. estou cursando Inteligência artificial.**
 
 - 📫 Como entrar em contato **caiqueoliver15@yahoo.com**
 
