@@ -10,7 +10,7 @@
 Sou um entusiasta de tecnologia em busca de desafios! Atualmente, estou mergulhando fundo no universo da **Inteligência Artificial** e desenvolvimento, com foco em criar soluções inovadoras e aprender todos os dias.
 
 - 🔍 **Em busca de**: Uma oportunidade de estágio ou emprego em **desenvolvimento** ou **dados**.   
-- 📚 **Estudando**: **Python | SQL Server | Java | Estrutura de Dados | IA**  
+- 📚 **Estudando**: **Python | SQL Server | C# | Estrutura de Dados | IA**  
 - 📩 **Fale comigo**: [caiqueoliver15@yahoo.com](mailto:caiqueoliver15@yahoo.com)  
 - 🔗 **Conecte-se**: [LinkedIn](https://www.linkedin.com/in/caique-oliveira77/)  
 
