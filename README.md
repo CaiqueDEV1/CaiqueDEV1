@@ -1,15 +1,47 @@
 <div align="center">
-  <h1>🚀 Olá, eu sou Caique Oliveira! 👋</h1>
-  <h3>Apaixonado por CyberSegurança</h3>
-  <img src="https://komarev.com/ghpvc/?username=caiquedev1&label=VISITAS&color=ff69b4&style=flat" alt="Profile Views" />
+👨‍💻 Caique Oliveira
+🔐 Entusiasta de CyberSegurança | Futuro Analista de Segurança
+</div>
+<br>
+
+
+🌟 Sobre Mim
+Sou um entusiasta de tecnologia apaixonado por desafios! Atualmente mergulhado no universo da Segurança da Informação, com foco em tornar empresas mais seguras e resilientes contra ameaças digitais.
+bash$ whoami
+> Caique Oliveira — CyberSecurity Enthusiast
+
+🔍 Buscando uma oportunidade de estágio ou emprego em Segurança / CyberSecurity
+
+🌱 Estudando ativamente conceitos de segurança ofensiva e defensiva
+
+🎯 Objetivo contribuir com a proteção de ativos digitais de empresas
+
+📩 Contato caiqueoliver15@yahoo.com
+
+
+🛡️ Área de Foco
+<div align="center">
+Ofensivo Defensivo Fundamentos Pentest BlueTeam Redes & TCP/IPCTF Challenges SIEM/SOC Linux Recon&OSINT Análise de Logs Criptografia
 </div>
 
----
+🧰 Tecnologias & Ferramentas
+<div align="center">
+</div>
 
-### 🌟 Quem Sou Eu?
-Sou um entusiasta de tecnologia em busca de desafios! Atualmente, estou mergulhando fundo no universo da Segurança, com foco em tornar empresas mais seguras.
 
-- 🔍 **Em busca de**: Uma oportunidade de estágio ou emprego em Segurança/Cybersecurity.   
-- 📚 **Estudando**: ****  
-- 📩 **Fale comigo**: [caiqueoliver15@yahoo.com](mailto:caiqueoliver15@yahoo.com)  
-- 🔗 **Conecte-se**: [LinkedIn](https://www.linkedin.com/in/caique-oliveira77/)  
+🏆 Conquistas & Certificações
+🎯 Primeira certificação em CyberSecurity (em andamento)
+
+
+"A segurança não é um produto, mas um processo." — Bruce Schneier
+
+
+📬 Vamos Conversar?
+<div align="center">
+Se você tem uma oportunidade ou quer trocar conhecimento sobre CyberSegurança, me chama!
+Mostrar Imagem
+</div>
+
+<div align="center">
+  <sub>⭐ Se curtiu algum projeto, deixa uma estrela! Isso ajuda muito.</sub>
+</div>
