@@ -38,7 +38,6 @@ Ofensivo Defensivo Fundamentos Pentest BlueTeam Redes & TCP/IPCTF Challenges SIE
 📬 Vamos Conversar?
 <div align="center">
 Se você tem uma oportunidade ou quer trocar conhecimento sobre CyberSegurança, me chama!
-Mostrar Imagem
 </div>
 
 <div align="center">
