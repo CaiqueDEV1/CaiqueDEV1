@@ -7,7 +7,6 @@
 
 🌟 Sobre Mim
 Sou um entusiasta de tecnologia apaixonado por desafios! Atualmente mergulhado no universo da Segurança da Informação, com foco em tornar empresas mais seguras e resilientes contra ameaças digitais.
-bash$ whoami
 > Caique Oliveira — CyberSecurity Enthusiast
 
 🔍 Buscando uma oportunidade de estágio ou emprego em Segurança / CyberSecurity
